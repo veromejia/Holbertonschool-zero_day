@@ -1,0 +1,1 @@
+Comad to open a file in emacs
